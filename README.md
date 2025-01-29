@@ -1,7 +1,7 @@
 # Spotify Clone with React and TypeScript
 
 A full-featured Spotify web player clone built with React, TypeScript, and Tailwind CSS, featuring complete Spotify Web Playback SDK integration.
-Link without oAuth: https://spotify-clone-amar.netlify.app/
+Link without oAuth: [Spotify-Demo](https://spotify-demo-v2.netlify.app/)
 
 ## Features
 
